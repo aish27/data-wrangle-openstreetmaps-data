@@ -1,0 +1,8 @@
+City chosen: San Jose, California, US
+Link: https://www.openstreetmap.org/relation/112143#map=10/37.2971/-121.8174
+I chose the city boundary - San Jose, Santa Clara County, CA, USA. San Jose is a city in California; it is part of the Santa Clara county. 
+I chose San Jose because of two reasons mainly. Firstly, I am currently living in San Jose and know this area well. 
+Secondly, I wanted to use the tools I learned in the Data Wrangling course to analyze the area and make conclusions about the area.
+Using the data wrangling tools, I have been able to understand more about the diversity of this city [actually, quantify it] and the facilities that exist in this city.
+
+
